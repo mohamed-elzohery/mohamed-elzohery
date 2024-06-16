@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mohamed-elzohery/mohamed-elzohery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Intro start-->
+- 🔭 I’m currently working on **my freelancing jobs**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Docker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+
+- 💬 Ask me about **JavaScript, react, react-native, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **mohamed.sayed.elzohery@gmail.com**
+
+<!--Intro end-->
+
